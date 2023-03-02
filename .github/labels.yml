@@ -1,0 +1,39 @@
+- color: fef2c0
+  description: Author 可申请锁住当前讨论
+  name: Locked
+- color: 22798A
+  description: ""
+  name: Eclipse
+- color: 7749E9
+  description: ""
+  name: Emacs
+- color: 5A7584
+  description: ""
+  name: Jetbrains
+- color: 9FD14A
+  description: ""
+  name: Neovim
+- color: DF6248
+  description: ""
+  name: Sublime
+- color: 123B15
+  description: ""
+  name: Vim
+- color: 306FB2
+  description: ""
+  name: VS Code
+- color: 0052CC
+  description: ""
+  name: Visual Studio
+- color: 1D76DB
+  description: ""
+  name: XCode
+- color: 0CE712
+  description: ""
+  name: UltraEdit
+- color: AE185D
+  description: ""
+  name: Coda
+- color: EEAEB4
+  description: ""
+  name: TextMate
